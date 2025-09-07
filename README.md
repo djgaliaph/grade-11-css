@@ -1,10 +1,10 @@
 # Types of Drive Interfaces
 
 Hard drives and optical drives are manufactured with different interfaces that are used to connect the drive to the computer. To install a storage drive in a computer, the connection interface on the drive must be the same as the controller on the motherboard. Here are some common drive interfaces:
-**IDE –**Integrated Drive Electronics, also called Advanced Technology Attachment (ATA) is an early drive controller interface that connects computers and hard disk drives. An IDE interface uses a 40-pin connector.
+* **IDE –**Integrated Drive Electronics, also called Advanced Technology Attachment (ATA) is an early drive controller interface that connects computers and hard disk drives. An IDE interface uses a 40-pin connector.
 
-** SATA **– Serial ATA refers to the serial version of the ATA drive controller interface. A SATA interface uses a 7-pin data connector.
-**SCSI **Small Computer System Interface is a drive controller interface that can connect up to 15 drives. SCSI can connect both internal and external drives. An SCSI interface uses a 50-pin, 68-pin, or 80-pin connector.
+* ** SATA **– Serial ATA refers to the serial version of the ATA drive controller interface. A SATA interface uses a 7-pin data connector.
+* **SCSI **Small Computer System Interface is a drive controller interface that can connect up to 15 drives. SCSI can connect both internal and external drives. An SCSI interface uses a 50-pin, 68-pin, or 80-pin connector.
 
 # TECHNICAL TERMS
 
