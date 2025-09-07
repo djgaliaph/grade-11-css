@@ -35,3 +35,5 @@ archival or backup purposes.
 *	**IDE **- Integrated Drive Electronics
 
 # Binary
+
+<img width="1042" height="369" alt="image" src="https://github.com/user-attachments/assets/fc48524e-724f-4efe-a42d-c58519133701" />
